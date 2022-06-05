@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aurorabaylessedwards
-- 👀 I’m interested in spatial data science
+- 👀 I’m interested in spatial data science and web mapping
 - 🌱 I’m currently learning python 🐍 HTML + CSS + JavaScript 
 - 🍟 I’m looking to collaborate on geospatial problem solving esp. cluster analysis with multi-dimensional data
 - 📫 find me on [linkedin](https://www.linkedin.com/in/aurora-bayless-edwards-16307a160)
